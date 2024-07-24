@@ -14,7 +14,7 @@ The provided example code is a subset of the overall applications I have worked 
 
 ### List of Code Samples
 
-1. **Discord Bot with MongoDB Integration**: [discord_bot_example.py](./discord_bot_example.py)
+1. **Discord Bot with MongoDB Integration**: [discord_bot_example.py](./snippet.py)
    - Demonstrates user role management and profile creation using MongoDB.
 
 ## Documentation
