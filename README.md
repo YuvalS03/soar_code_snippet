@@ -15,14 +15,16 @@ The provided example code is a subset of the overall applications I have worked 
 ### List of Code Samples
 
 1. **Discord Bot with MongoDB Integration**: [discord_bot_snippet.py](./discord_bot_snippet.py)
-   - Demonstrates user role management and profile creation using MongoDB.
+   - Demonstrates user role management and profile creation.
+   - Uses python, MongoDB, discord.py, and certifi.
 
 2. **Statistical Analysis and Visualization for Medical Data**: [esg_rsg_snippet.py](./esg_rsg_snippet.py)
    - Calculates total number of patients, total postoperative complications, total reoperations, and weighted averages (with standard deviations) for pre-op BMI, operation time, and length of stay.
    - Includes checks for categorical outcomes using odds ratios (OR) with 95% confidence intervals (CI) and assesses heterogeneity using Cochran’s Q statistic.
    - Link to my publication: 
-         - https://www.soard.org/article/S1550-7289(24)00336-8/abstract
-         - https://asmbsmeeting.com/abstract/robotic-sleeve-gastrectomy-vs-endoscopic-sleeve-gastroplasty-for-morbid-obesity-a-systematic-review-and-comparison/
+      - https://www.soard.org/article/S1550-7289(24)00336-8/abstract
+      - https://asmbsmeeting.com/abstract/robotic-sleeve-gastrectomy-vs-endoscopic-sleeve-gastroplasty-for-morbid-obesity-a-systematic-review-and-comparison/
+   - Uses python, pandas, numpy, matplotlib, and scipy. 
 
 ## Documentation
 
